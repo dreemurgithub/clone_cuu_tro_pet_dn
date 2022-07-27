@@ -20,3 +20,9 @@ Update việc cần làm:
         https://stackoverflow.com/questions/50062092/static-navbar-in-all-web-page-using-javascript
         Cân nhắc thay vì tạo ra 1 đống page bài viết, học cách sử dụng php để update 1 đống page(kiểu personal hóa mà khỏi mất công viết page mới
         php=>data các chú chó+pic list+infor=>xuất page - đơn giản và chuẩn mực
+
+Update đã làm được
+        
+        Đã có thể xây dựng menu động! Dựa vào php và mysql
+        Cần tìm nơi host SQL và php T_T
+        
